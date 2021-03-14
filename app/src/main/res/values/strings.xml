@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NOA lounge bar</string>
+    <string name="facebook_app_id">1490885711242637</string>
+    <string name="fb_login_protocol_scheme">fb1490885711242637</string>
+    <string name="description1">"NOA is the only place for anyone who wants to enjoy relaxing, warm atmosphere, variety of delicious food and a glass of good Macedonian wine!"</string>
+    <string name="description2">"Located in one of the most beautiful places in Ohrid, where you can enjoy the morning blue lake and the beauty of the reflection of the warm sunset."</string>
+    <string name="restaurant_notice">This restaurant requires a notice period of 1 hour.</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

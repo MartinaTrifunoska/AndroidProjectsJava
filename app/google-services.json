@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1072165706789",
+    "project_id": "rest-1614259889968",
+    "storage_bucket": "rest-1614259889968.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072165706789:android:61fffcf1f5092aae8f33cc",
+        "android_client_info": {
+          "package_name": "com.example.rest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072165706789-d1pgd4b26fj406o0vn65iu7kupolf6t1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbNjV9kcIbMfGoWQyEx-v2T5IFcIU_0e8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072165706789-d1pgd4b26fj406o0vn65iu7kupolf6t1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
